@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'motzik88-streamlit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54E824841D8F4AE6A9740E014C9831F8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4CC3C06F4A2545BE898615645D6E2E70 }}
